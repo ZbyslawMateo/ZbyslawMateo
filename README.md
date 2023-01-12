@@ -8,8 +8,8 @@
 - 💬 Ask me about **my knowledge**
 
 - 📫 How to reach me **mateusz.zbyslaw@gmail.com**
-
-- 📄 Know about my experiences [https://viaucdk-my.sharepoint.com/:i:/g/personal/315192_viauc_dk/EYJsCUZihgxJgem_8HwjTDIBxfjMzj5030KyCgJqdzLJ_Q?e=RzSc66](https://viaucdk-my.sharepoint.com/:i:/g/personal/315192_viauc_dk/EYJsCUZihgxJgem_8HwjTDIBxfjMzj5030KyCgJqdzLJ_Q?e=RzSc66)
+<!--
+- 📄 Know about my experiences [https://viaucdk-my.sharepoint.com/:i:/g/personal/315192_viauc_dk/EYJsCUZihgxJgem_8HwjTDIBxfjMzj5030KyCgJqdzLJ_Q?e=RzSc66](https://viaucdk-my.sharepoint.com/:i:/g/personal/315192_viauc_dk/EYJsCUZihgxJgem_8HwjTDIBxfjMzj5030KyCgJqdzLJ_Q?e=RzSc66) -->
 
 - ⚡ Fun fact **I am amateur photographer, graphic designer and a travel lover.**
 
