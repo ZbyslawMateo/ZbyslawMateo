@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A passionate polish software engineer, studying in Horsens, Denmark. Currently finishing 3rd semester. Trying to get an internship on 5th semester - 2nd half of 2023.</h3>
+<h3 align="center">A passionate polish software engineer, studying in Horsens, Denmark. Currently on the 4th semester.</h3>
 
-- 🔭 I’m currently working on [Photoguard - Semester 3 project](https://github.com/DeadlineGods/sep-3)
+- 🔭 I’m currently working on semester project in a team of 12 students.
 
-- 🌱 I’m currently learning **Distributed systems, Network Security, Computer architecture, .NET programming**
+<!-- - 🌱 I’m currently learning **Distributed systems, Network Security, Computer architecture, .NET programming** -->
 
 - 💬 Ask me about **my knowledge**
 
